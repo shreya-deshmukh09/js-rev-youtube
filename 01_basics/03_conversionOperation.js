@@ -29,6 +29,28 @@ console.log(stringNumber);
 console.log(typeof stringNumber);
 
 
+//* ************* OPERATIONS ************* */
+
+
+let value = 3
+let negValue =-value
+
+//conso.log(2+2)
+//conso.log(2-2)
+//conso.log(2*2)
+//conso.log(2**3)
+//conso.log(2/2)
+//conso.log(2%2)
+
+let str1 ="Shreya"
+let str2 ="Deshmukh"
+
+let str3= str1 + str2
+console.log(str3);
+
+
+
+
 
 
 
